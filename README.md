@@ -129,7 +129,7 @@ Beyond the headline, the report surfaces several findings that raw league-table 
 
 ## How to Use
 
-Download `PL 2018-2019 season.pbix` and open it in **Power BI Desktop**. The report is fully interactive — use the slicers, drill through on teams, and drag the minimum-minutes slider on the Player Efficiency page.
+Download `PL 2018 2019 season.pbix` and open it in **Power BI Desktop**. The report is fully interactive — use the slicers, drill through on teams, and drag the minimum-minutes slider on the Player Efficiency page.
 
 ---
 
